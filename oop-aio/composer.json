@@ -1,0 +1,9 @@
+{
+    "name": "admin/psr4-composer",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Psr4Composer\\": "src/"
+        }
+    },
+    "require": {}
+}

@@ -30,3 +30,14 @@
 
 
 ?>
+
+
+<!-- Package name (<vendor>/<name>): admin/psr4-composer
+Description: Sample project for PSR-4 autoloading
+Author: Quang-Hau <lenguyenquanghau@gmail.com>
+Minimum Stability: stable
+Package Type: library
+License: MIT
+Define your dependencies: no
+Define your dev dependencies: no
+Add PSR-4 autoload mapping: src/ -->
